@@ -1,7 +1,7 @@
 # Blue Daydreaming
 
-Frontend developer working with JavaScript, TypeScript and React.
-I contribute focused fixes to JavaScript libraries and developer tools.
+Previously at ByteDance, where I worked on the frontend of Volcengine’s live streaming service.
+Now contributing to JavaScript libraries and developer tools.
 
 ### Selected contributions
 
